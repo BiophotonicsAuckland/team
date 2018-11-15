@@ -23,4 +23,11 @@ I have written code to read raw OCT data from .tdms into .npy files for use with
 
 Currently I am working on processing of OCT data to determine the shear force and the percentage of intramuscular fat in NZ red meat.
 
+## Abi Thampi
+
+I am a PhD student working on OCT to predict the quality of meat in real time. 
+
+I have been working on OCT data processing along with Sam to measure the intramuscualr fat content and the shear force in NZ red meat. 
+
+Contact: atha302@aucklanduni.ac.nz
 
