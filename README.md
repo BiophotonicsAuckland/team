@@ -24,3 +24,8 @@ I have written code to read raw OCT data from .tdms into .npy files for use with
 Currently I am working on processing of OCT data to determine the shear force and the percentage of intramuscular fat in NZ red meat.
 
 
+## Mykola Zlygostiev
+
+I am a PhD student working on eye studies using FD-OCT.
+
+I don't mind to be the next volunteer.
