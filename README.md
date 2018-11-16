@@ -31,3 +31,8 @@ I have been working on OCT data processing along with Sam to measure the intramu
 
 Contact: atha302@aucklanduni.ac.nz
 
+## Mykola Zlygostiev
+
+I am a PhD student working on eye studies using FD-OCT.
+
+I don't mind to be the next volunteer.
