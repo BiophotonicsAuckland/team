@@ -36,3 +36,9 @@ Contact: atha302@aucklanduni.ac.nz
 I am a PhD student working on eye studies using FD-OCT.
 
 I don't mind to be the next volunteer.
+
+## Fang (Rachel) Ou
+
+I am a PhD student working on the FoodSafe project.
+
+I have written some python codes to process spectral data measured by the optrode.
