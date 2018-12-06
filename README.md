@@ -48,3 +48,9 @@ I have written some python codes to process spectral data measured by the optrod
 I am a PhD Student working with PS-OCT to evaluate articular cartilage degeneration
 
 Contact: Mbro632@aucklanduni.ac.nz
+
+## Kevin Sun
+
+I am a summer student working on dispersion with FD-OCT. 
+
+Contact: zsun848@aucklanduni.ac.nz
