@@ -37,14 +37,15 @@ I am a PhD student working on eye studies using FD-OCT.
 
 I don't mind to be the next volunteer.
 
+## Matthew Goodwin
+
+I am a PhD Student working with PS-OCT to evaluate articular cartilage degeneration. 
+
+Contact: Mbro632@aucklanduni.ac.nz
+
 ## Fang (Rachel) Ou
 
 I am a PhD student working on the FoodSafe project.
 
 I have written some python codes to process spectral data measured by the optrode.
 
-## Matthew Goodwin
-
-I am a PhD Student working with PS-OCT to evaluate articular cartilage degeneration
-
-Contact: Mbro632@aucklanduni.ac.nz
