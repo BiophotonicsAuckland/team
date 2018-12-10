@@ -54,5 +54,14 @@ I have written some python codes to process spectral data measured by the optrod
 I am a summer student working on dispersion with FD-OCT. 
 
 Contact: zsun848@aucklanduni.ac.nz
+
+## Liam Murphy
+
+I am a summer student working on the FoodSafe Project.
+I am working on methods of enumeration of bacteria via microfluidics and spectrum measurements.
+
+Contact: lmur451@aucklanduni.ac.nz
+
+
 =======
 
