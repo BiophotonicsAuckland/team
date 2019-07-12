@@ -35,7 +35,7 @@ Contact: atha302@aucklanduni.ac.nz
 
 I am a PhD student working on eye studies using FD-OCT.
 
-I don't mind to be the next volunteer.
+Current Github admin
 
 ## Matthew Goodwin
 
