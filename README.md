@@ -1,6 +1,16 @@
 # team
 This is where we present ourselves and what we work on.
 
+## Fred Vanholsbeeck
+I am in charge of the research group.
+Please email me (f.vanholsbeeck@auckland.ac.nz) if you have some questions about the research. 
+If you have questions about the codes, email the person in charge of these codes.
+
+
+
+# Archives
+
+
 ## Paul Freeman
 I am helping to setup this repository.
 
